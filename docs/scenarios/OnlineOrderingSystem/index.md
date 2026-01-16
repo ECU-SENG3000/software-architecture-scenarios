@@ -8,7 +8,7 @@ A comprehensive case study of a distributed, event-driven retail platform that p
 | [Logical View](logical-view.md) | Conceptual components and their relationships |
 | [Physical View](physical-view.md) | Infrastructure deployment across cloud resources |
 | [Component View](component-view.md) | Summary of components with roles and deployment |
-| [Communication Patterns](communication-patterns.md) |  |
+| [Communication Patterns](communication-patterns.md) | Components groupd by communication type |
 | [Sequence Diagram](sequence-diagram.md) | Temporal flow of messages between components |
 | [Points of Failure](points-of-failure.md) | Failure analysis and resilience considerations |
 

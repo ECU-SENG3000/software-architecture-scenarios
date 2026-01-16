@@ -3,6 +3,7 @@
 
 
 
+
 ## 🔄 Sequence Diagram
 
 The sequence diagram below shows the temporal flow of messages between components.

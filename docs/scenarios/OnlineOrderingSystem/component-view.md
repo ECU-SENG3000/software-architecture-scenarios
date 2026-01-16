@@ -1,5 +1,6 @@
 ---
 
+
 ## 📊 Component Summary
 
 | Component | Logical Role | Physical Deployment |

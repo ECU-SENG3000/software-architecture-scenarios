@@ -1,5 +1,6 @@
 ## 🏗️ Physical Architecture Diagram
 
+
 The **physical view** shows how components are deployed across infrastructure, including cloud resources, containers, and network boundaries.
 
 ```mermaid

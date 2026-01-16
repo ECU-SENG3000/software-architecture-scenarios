@@ -5,7 +5,7 @@ A comprehensive case study of a distributed, event-driven retail platform that p
 
 | View | Description |
 |------|-------------|
-| [Logical View](scenarios/OnlineOrderingSystem/logical-view.md) | Conceptual components and their relationships |
+| [Logical View](logical-view.md) | Conceptual components and their relationships |
 | [Physical View](scenarios/OnlineOrderingSystem/physical-view.md) | Infrastructure deployment across cloud resources |
 | [Component View](scenarios/OnlineOrderingSystem/component-view.md) | Summary of components with roles and deployment |
 | [Communication Patterns](scenarios/OnlineOrderingSystem/communication-patterns.md) |  |

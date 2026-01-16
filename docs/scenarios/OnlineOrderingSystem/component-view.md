@@ -18,21 +18,3 @@
 
 ---
 
-## 🔑 Key Architectural Concepts
-
-### Logical vs Physical
-
-| Aspect | Logical View | Physical View |
-|--------|--------------|---------------|
-| Focus | *What* the system does | *Where* components run |
-| Audience | Developers, architects | DevOps, infrastructure teams |
-| Abstracts | Deployment details | Business logic |
-| Shows | Services, data flow, dependencies | Servers, containers, networks, regions |
-
-### Communication Patterns Shown
-
-- **Synchronous**: Frontend → API Gateway → Order Service
-- **Asynchronous**: Order Service → Queue → Payment Service
-- **Event-Driven**: Order Service → Event Bus → Downstream Services
-
----
